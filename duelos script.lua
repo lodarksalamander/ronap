@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Murderers-VS-Sheriffs-DUELS-Vexal-Murder-vs-Sheriff-Duels-Undetected-Fast-Solora-Xeno-111295"))()
